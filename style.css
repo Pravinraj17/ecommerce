@@ -1,0 +1,105 @@
+	@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Baskervville+SC&family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Updock&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{
+	font-family: poppins;
+}
+
+.fourth-child img
+{
+height: 200px;
+object-fit: contain;
+
+}
+
+.admin_guest img
+{
+	width: 30px!important;
+}
+
+.admin_profile img
+{
+	width: 30px!important;
+}
+
+.cart_img{
+	width: 40px!important;
+	height: 40px!important;	
+}
+.error
+{
+	color: red;
+	font-size:14px !important;
+}
+.profile_images img
+{
+	width: 35%!important;
+	border-radius: 50px!important;
+}
+.fourth-child1 li:hover
+{
+
+	background-color: #fff;
+	color: black !important;
+	transition: all 1s ease-in-out;
+}
+.fourth-child1 a
+{
+
+	color: #fff;
+}
+.profile_img img
+{
+	width: 8% !important;
+}
+.confrim_payment
+{
+	background-image: url(./images/cp_bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: 35%;
+	background-position-y: 35%;
+
+}
+
+.error
+{
+	color: red!important;
+}
+
+.reset_bg
+{
+	background-image: url(./images/loginbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: 35%;
+	background-position-y: 35%;
+
+}
+
+.forget
+{
+	background-image: url(./images/7636213_3607424.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: 50%;
+	background-position-y: 50%;
+
+}
+.login
+{
+	background-image: url(./images/12980762_5096160.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: 50%;
+	background-position-y: 50%;
+
+}
+.registration
+{
+	background-image: url(./images/110796.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position-x: 50%;
+	background-position-y: 50%;
+
+}
